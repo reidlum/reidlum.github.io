@@ -39,43 +39,18 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
+  
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Eta Kappa Nu Institute of Electrical and Electronics Engineers",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "Pledge",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Pledge for the international honor society for electrical and computer engineers.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Community service projects",
+        "Provides weekly tutoring"
       ]
     },
     {
@@ -94,16 +69,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship is an automatic $2,000-$4,000 scholarship per year for four years of undergraduate study for first-time degree-seeking students. Students must have a 3.8 GPA upon the time of application to UH Manoa."
+    },
+    {
+      "title": "Hawaii B+ Scholarship",
+      "date": "2020-2021",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2020-2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     }
   ],
   "references": [
