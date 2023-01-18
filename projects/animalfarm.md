@@ -17,4 +17,8 @@ Doing this project was an ongoing task for an entire semester. We constantly mad
 
 Aside from the technical skills I learned from doing this project, I also learned how to manage my time while doing a significant project. At the time of completion, it was by far the biggest project I had done. I learned I cannot always finish something all in one sitting, and it takes multiple long sessions to complete projects of this magnitude. This project changed the way I approach substantial assignments.
 
+Here's an example of a class I had to make:
+
+<img class="img-fluid" src="../img/animalfarmss.png">
+
 The databases GitHub: <a href="https://github.com/reidlum/ee205-animal-farm"><i class="large github icon "></i>https://github.com/reidlum/ee205-animal-farm</a>
