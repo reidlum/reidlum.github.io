@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/animalfarm_logo.png
-title: "Workout Log"
+title: "Animal Farm"
 date: 2022
 published: true
 labels:
