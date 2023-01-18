@@ -17,5 +17,5 @@ While at the gym I noticed many people writing down the exercises they were doin
 I created this app with Android Studio after teaching myself the Kotlin programming language using the Android developers website. For the database side of the app, I used SQLite.
 
 Here are some screenshots from the app:
-<img class="img-fluid" src="../img/cotton/workoutlogss.png">
+<img class="img-fluid" src="../img/workoutlogss.png">
 The application's github: <a href="https://github.com/reidlum/WorkoutLogpc"><i class="large github icon "></i>https://github.com/reidlum/WorkoutLogpc</a>
