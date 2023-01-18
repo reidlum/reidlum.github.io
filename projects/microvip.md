@@ -17,4 +17,8 @@ Since we were given a relatively small amount of images labeled with the TE and 
 
 From this project I developed much stronger abilities in Python coding and working in teams on a major project.
 
+Some of my work on the GUI can be seen in this picture:
+
+<img class="img-fluid" src="../img/microvipss.png">
+
 
