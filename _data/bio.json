@@ -7,37 +7,37 @@
     "phone": "808-393-1446",
     "website": "https://reidlum.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2023.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "reidlum", "url": "http://github.com/reidlum" },
+      { "network": "linkedin", "username": "reidlum", "url": "https://www.linkedin.com/in/reid-lum-b55a42220/" }
+      <!--{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },-->
+      <!--{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" -->
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Development" },
+    { "name": "Machine Learning" },
+    { "name": "Application Design" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "Kotlin", "Javascript", "Verilog", "VHDL", "SQLite", "Matlab"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "courses": [
       ]
