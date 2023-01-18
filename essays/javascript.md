@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Trials and Tribulations of Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="900px" class="rounded float-start pe-4" src="../img/javascriptmeme.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/javascriptmeme.png">
 
 ## From 0 to 100 Very Quickly
 
