@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "reidlum", "url": "http://github.com/reidlum" },
       { "network": "linkedin", "username": "reidlum", "url": "https://www.linkedin.com/in/reid-lum-b55a42220/" }
-      <!--{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },-->
-      <!--{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" -->
     ]
   },
   "interests": [
