@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/workoutlog_logo.png
 title: "Workout Log"
 date: 2022
 published: true
