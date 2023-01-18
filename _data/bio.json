@@ -16,9 +16,7 @@
   "interests": [
     { "name": "Software Development" },
     { "name": "Machine Learning" },
-    { "name": "Application Design" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Application Design" }
   ],
   "skills": [
     {
