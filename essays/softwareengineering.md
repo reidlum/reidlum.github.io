@@ -15,7 +15,7 @@ labels:
 
 As far as interest in software engineering goes, I do not have very many. This might sound terrible, and if you’re a job recruiter please don’t leave just yet. I say I don’t have many interests because at this point in my life, I haven’t had many experiences that have exposed me to different areas in software engineering. In the core classes of computer engineering there is not much material about the different fields of software engineering. The classes give you a base that will allow you to explore the different fields when you take electives, do projects, and work at internships or jobs.
 
-## Another Day, Another Language
+## Solving Problems
 
 Up until now, I have done a project that dealt with machine learning and developed an application for Android devices. I can confidently say that I enjoyed both of these projects about the same amount. This is because I’ve found that I enjoy the problem solving part of software engineering more than the actual thing that I am working on. I like the feeling of solving a problem, whether it’s finding the best way to train a neural network, or implementing a feature on my application that makes the user experience better. I think that this is why software engineering is so appealing to me, any job I get will require me to solve problems.
 
