@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Advetnures in Software Engineering"
+title: "Adventures in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-21
 published: true
