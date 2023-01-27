@@ -12,8 +12,6 @@ labels:
 
 <img width="550px" class="rounded float-start pe-4" src="../img/questionessaypic.jpg">
 
-## Got Interests?
-
 A problem I struggle with is asking for help. I don’t particularly like relying on others for anything and find it hard to trust others when it comes to them teaching me. I will trust others that I know are more qualified than me, but majority of the time I tend to take information given to me with a grain of salt if they are given to me by someone I don’t fully trust. This has saved me on multiple occasions, but also has its drawbacks. Overtime I’ve learned that almost anyone can have a better solution than me and my way isn’t always the best. In order to be the best engineer I can be, I must learn to ask for help more and thoroughly consider another person's solution to my problem.  It is crucial for software engineers to learn to work together because when multiple minds work on a problem, it will be solved quicker and in the most efficient way. An easy way for this to be done is through online forums such as Stack Overflow, where people can post questions they have and others can answer.
 
 ## Solving Problems
