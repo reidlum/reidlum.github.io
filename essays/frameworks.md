@@ -22,5 +22,6 @@ There’s no doubt Bootstrap 5 is an extremely useful tool that can save someone
 
 ## Proving Itself
 <img width="1000px" src="../img/frameworks.png">
+
 Using Bootstrap, I was able to recreate a web page I found online. You can see the page I created on the left, and the original on the right. It is almost an exact copy, with some differences in spacing, font and icons, but overall the untrained eye would almost not be able to tell the difference. Completing this with just writing html and css code would be so much more difficult, I think it would probably take me days. In class we practiced making a website that was much simpler than this one using only html and css. Doing that was so much harder despite the website being much simpler. Overall, Bootstrap 5 makes creating web pages so much easier and user friendly. 
 
