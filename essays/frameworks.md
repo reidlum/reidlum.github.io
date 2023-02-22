@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI"
+title: "Bootstrap Blew My Socks Off"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
