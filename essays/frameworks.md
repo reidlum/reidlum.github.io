@@ -1,25 +1,28 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: Pain is Beauty and Beauty is Pain"
+title: "UI"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-09
+date: 2023-02-23
 published: true
 labels:
   - Software Engineering
-  - Standards
+  - UI Frameworks
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/codingstandards.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/framework.png">
 
-I’ve always hated coding standards. I thought to myself, why does it matter how my code looks if it works fine. As I developed as a programmer, I started to realize the importance of having some type of standards when programming. I started to collaborate on code and work on other people’s code. It was then that I noticed it was much easier to understand someone else’s code when they use descriptive names, organize their code in an efficient way, and indent properly. However, this is about where my expectations end. Spaces after commas, parentheses, and other places may make a code look pleasing, but to me provides no other benefits. I will not understand the code any better if there is a space after a comma or not. This is just one example of a coding standard that I find unnecessary.
-Nevertheless, I do see the purpose of writing code in a standardized way. If multiple people work on the same piece of code, it may be a bit unpleasant if everyone uses their own format and styling. For this reason, When I contribute to a program I try my best to imitate whatever standard the person before me was using.
+“Are you crazy?!” This was my first thought when I saw that my professor assigned an almost three hour video about using the UI framework Bootstrap 5. I was a bit frustrated with how long this video was, but in the end learning Bootstrap would save me more time than I could even fathom.
 
-## Coding Standards in Class
+##A Small Price to Pay for Salvation
 
-One place I do not see the need for using a very specific coding standard is individual assignments done in a class. Unless the assignment is specifically to teach someone a coding standard, I think having students follow a standard to a high degree is not helpful. As long as the code is somewhat organized and understandable, I think whether or not the code meets a standard is a waste of time and energy. Professors may believe they are teaching students how to follow a standard, but when a student gets a job they may have to follow a different standard. Then, they will have to break the habits they developed following the standard in class to learn a different one for their job.
-With that being said, I do not care for the ESlint analysis on Intellij I am using in a class. This analysis tool will warn a user about anything that doesn’t meet its standards. Because I am still learning the standard, this is highly annoying. I will get warnings and errors about things that won’t even affect how my program runs. This causes me to use a lot of my time editing my code to make it look “nice”.
+Three hours. I thought this was a ridiculous amount of time to put into learning Bootstrap 5. All to what? Make web pages look a little cooler? I thought that this was going to be a huge waste of time and energy, but boy was I wrong. When completing the first assignment using Bootstrap 5, I realized what a powerful tool it is. The assignment was relatively simple, but without Bootstrap or a different UI framework, I think it would have taken me way longer to complete. I don’t even know how I would go about making the website without Bootstrap 5. This realization was only strengthened as I completed more and more assignments that required us to use Bootstrap. I cannot even comprehend writing the pure html and css code for making these websites. But, here I was, creating them in a couple hours with the help of Bootstrap. Although learning Bootstrap may have been a bit painful, this pain would pale in comparison to writing all the html and css for the websites.
 
-## A Saving Grace
+##Not all Sunshine and Rainbows
 
-While writing this essay, I just remembered something I learned in a previous class: Code Cleanup. I’ve used an IDE similar to Intellij in my previous programming class and that professor taught me how to use a tool called Code Cleanup. This tool will go through your entire file and fix all the errors and warnings that are present. This tool is going to save me a lot of time moving forward because I will no longer have to focus on how my code looks, but just how it works.
+There’s no doubt Bootstrap 5 is an extremely useful tool that can save someone hours of time, but this doesn’t mean there isn’t a learning curve to it. There is a lot of information to intake when first learning Bootstrap 5, and I think it would be almost impossible to remember everything. So, I often must look up certain aspects of Bootstrap 5 and copy some reference code. Or, if I know I’ve done something similar in the past, I will refer to that code. I think remembering the key words for Bootstrap is difficult. For example, when making the navigation bar color using I’ve “bg-light” in the class to make the bar light. I don’t remember what bg means, and it is hard for me to remember these niche naming conventions.
+
+##Proving Itself
+
+Using Bootstrap, I was able to recreate a web page I found online. You can see the page I created on the left, and the original on the right. It is almost an exact copy, with some differences in spacing, font and icons, but overall the untrained eye would almost not be able to tell the difference. Completing this with just writing html and css code would be so much more difficult, I think it would probably take me days. In class we practiced making a website that was much simpler than this one using only html and css. Doing that was so much harder despite the website being much simpler. Overall, Bootstrap 5 makes creating web pages so much easier and user friendly. 
+
