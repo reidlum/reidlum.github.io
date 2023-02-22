@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/framework.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/frameworks.png">
 
 “Are you crazy?!” This was my first thought when I saw that my professor assigned an almost three hour video about using the UI framework Bootstrap 5. I was a bit frustrated with how long this video was, but in the end learning Bootstrap would save me more time than I could even fathom.
 
