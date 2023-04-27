@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From Chaos to Order: Design Patterns in Action"
+title: "The Music of Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
 published: true
@@ -10,16 +10,14 @@ labels:
   - Design Patterns
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/codingstandards.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/musicn.png">
 
-I’ve always hated coding standards. I thought to myself, why does it matter how my code looks if it works fine. As I developed as a programmer, I started to realize the importance of having some type of standards when programming. I started to collaborate on code and work on other people’s code. It was then that I noticed it was much easier to understand someone else’s code when they use descriptive names, organize their code in an efficient way, and indent properly. However, this is about where my expectations end. Spaces after commas, parentheses, and other places may make a code look pleasing, but to me provides no other benefits. I will not understand the code any better if there is a space after a comma or not. This is just one example of a coding standard that I find unnecessary.
-Nevertheless, I do see the purpose of writing code in a standardized way. If multiple people work on the same piece of code, it may be a bit unpleasant if everyone uses their own format and styling. For this reason, When I contribute to a program I try my best to imitate whatever standard the person before me was using.
+When I first learned about design patterns, I was in my ICS 314 class. We were assigned a task to create an application that allows users to create jam sessions. This made me think about how design patterns can be thought about like music notes. Each music note has a specific job or purpose and they may not be much alone, but after using many of them together one can create music. Or, in this case, an online application. Notes can be used in multiple places, or just in one just like design patterns. Overall, the application would be much harder to make and implement if it weren’t for the design patterns that were employed. This is just like how musicians may struggle to play or create a song without making use of musical notes.
 
-## Coding Standards in Class
+## Jazzing up Jamb-UH-ree
 
-One place I do not see the need for using a very specific coding standard is individual assignments done in a class. Unless the assignment is specifically to teach someone a coding standard, I think having students follow a standard to a high degree is not helpful. As long as the code is somewhat organized and understandable, I think whether or not the code meets a standard is a waste of time and energy. Professors may believe they are teaching students how to follow a standard, but when a student gets a job they may have to follow a different standard. Then, they will have to break the habits they developed following the standard in class to learn a different one for their job.
-With that being said, I do not care for the ESlint analysis on Intellij I am using in a class. This analysis tool will warn a user about anything that doesn’t meet its standards. Because I am still learning the standard, this is highly annoying. I will get warnings and errors about things that won’t even affect how my program runs. This causes me to use a lot of my time editing my code to make it look “nice”.
+We decided to name the application we were assigned, Jamb-UH-ree, and while making the application for the class many design patterns were implemented. One example of a design pattern that was used was a creational design pattern called a  builder. This can be seen in the following code:
 
-## A Saving Grace
+<img width="550px" class="rounded float-start pe-4" src="../img/designcode.png">
 
-While writing this essay, I just remembered something I learned in a previous class: Code Cleanup. I’ve used an IDE similar to Intellij in my previous programming class and that professor taught me how to use a tool called Code Cleanup. This tool will go through your entire file and fix all the errors and warnings that are present. This tool is going to save me a lot of time moving forward because I will no longer have to focus on how my code looks, but just how it works.
+This design pattern was used to fill the information needed in a certain artist’s card, which is like a short summary of their full profile. This design pattern has to be used for every artist that needs to be displayed on the application, which is all of the artists on the application. Creating the artist cards without this design pattern would have been an extremely tedious task. Doing it this way saved a lot of time and energy. This is just one example of a design pattern that was implemented in the code for the application. A similar situation arose when making jam session cards. A builder design pattern was used there too. In addition to these design patterns, many more were used in the creation of Jamb-UH-ree because they are a very useful tool that improves the efficiency of creating software.
