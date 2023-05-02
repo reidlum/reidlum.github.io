@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: Pain is Beauty and Beauty is Pain"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Software Engineering
   - Standards
