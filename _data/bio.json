@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Kotlin", "Javascript", "Verilog", "VHDL", "SQLite", "Matlab"]
+      "keywords": [ "C", "C++", "Python", "Kotlin", "JavaScript", "Verilog", "VHDL", "SQLite", "Matlab", "Postgres", "Meteor React", "HTML/CSS"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows", "g++"]
     }
   ],
   "education": [
