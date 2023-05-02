@@ -11,7 +11,7 @@ labels:
   - Ethics
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/softwareengineeringpic.jpg">
+<img width="1000px" class="rounded float-none pe-4" src="../img/reflectmeme.png">
 
 This semester I registered for ICS 314, which is a software engineering course. The war between me and the course was a legendary one, with ups and downs, but in the end, I came out victorious. Here’s an account of some of the notable battles.
 
