@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Reid Lum",
+    "label": "Student",
+    "picture": "https://raw.githubusercontent.com/reidlum/reidlum.github.io/main/img/pfpr.png",
+    "email": "reidlum@hawaii.edu",
+    "phone": "808-393-1446",
+    "website": "https://reidlum.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "reidlum", "url": "http://github.com/reidlum" },
+      { "network": "linkedin", "username": "reidlum", "url": "https://www.linkedin.com/in/reid-lum-b55a42220/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Machine Learning" },
+    { "name": "Application Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "Kotlin", "JavaScript", "Verilog", "VHDL", "SQLite", "Matlab", "Postgres", "Meteor React", "HTML/CSS"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows", "g++"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "Eta Kappa Nu Institute of Electrical and Electronics Engineers",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "Pledge",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Pledge for the international honor society for electrical and computer engineers.",
+      "highlights": [
+        "Community service projects",
+        "Provides weekly tutoring"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship is an automatic $2,000-$4,000 scholarship per year for four years of undergraduate study for first-time degree-seeking students. Students must have a 3.8 GPA upon the time of application to UH Manoa."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020-2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
+      "title": "Hawaii B+ Scholarship",
+      "date": "2020-2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
