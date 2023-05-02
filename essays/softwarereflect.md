@@ -25,4 +25,4 @@ In this course we also took time to analyze the ethics that could potentially be
 
 ## The Spoils of War
 
-This class has taught me an innumerable amount of important skills and lessons. I could write so much more about what I learned, but these two battles were the most significant skills and lessons I attained from this course. Overall, I came out of this course as probably twice the software engineer I was when I started.
+This class has taught me an innumerable amount of important skills and lessons. I could write so much more about what I learned, but these two battles resulted in the most significant skills and lessons I attained from this course. Overall, I came out of this course as probably twice the software engineer I was when I started.
